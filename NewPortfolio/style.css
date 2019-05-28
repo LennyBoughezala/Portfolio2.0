@@ -1,0 +1,58 @@
+.name{
+  font-size: 170px;
+  color: #FFFFFF;
+}
+body{
+  overflow-x: hidden;
+}
+.headerImg{
+  background-image: url('img/backgroundGeo.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.projet{
+  background-color: #250448;
+}
+.borderBlue{
+  border: 5px solid  #00ebea;
+}
+.borderYellow{
+  border: 5px solid  #fdcb01;
+}
+.borderPink{
+  border: 5px solid  #f60261;
+}
+.colorBlue{
+  background-color: #00ebea;
+}
+.colorYellow{
+  background-color: #fdcb01;
+}
+.colorPink{
+  background-color: #f60261;
+}
+.colorFJC{
+  background-color: #edaab0;
+}
+.textWhite{
+  color: #FFFFFF;
+}
+.colorPurple{
+  background-color: #250448;
+}
+.sitefjc{
+  width: 100%;
+  border: 1px solid black;
+}
+.logotechno{
+  height: 40px;
+}
+.btnProjet{
+  width: 150px;
+  height: 50px;
+}
